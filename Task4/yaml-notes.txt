@@ -1,0 +1,9 @@
+Assumptions and Choices:
+1. Matilda's name, birthday, and age are represented as strings and numbers respectively, based on the provided information.
+2. Information about marriages is structured as a list of dictionaries, with each dictionary containing details about the partner, marriage dates, and whether there is a child.
+3. A boolean value (`true` or `false`) is used to indicate whether a marriage produced a child.
+4. For Matilda's current marriage with Ryan Craig Viduka, the `end_date` is represented as `null` since the marriage is ongoing.
+5. Football matches are structured as a list of dictionaries, with details about match type, opponent, score, location, and number of supporters.
+6. In the case of the second match where Matilda played for only 45 minutes, a `minutes_played` attribute is included to specify this.
+7. If specific information (such as location or number of supporters) is not provided, it is represented as `null`.
+8. The YAML file has been verified to be syntactically correct using a YAML validator or parser to ensure there are no syntax errors.

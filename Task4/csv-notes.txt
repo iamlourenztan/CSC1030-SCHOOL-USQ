@@ -1,0 +1,9 @@
+Assumptions and Choices:
+- The CSV file is structured with headers for each column (e.g., Name, Birthday, Age, Marital Status, Partner, etc.).
+- Rows represent different pieces of information, such as personal details, marriage information, and football matches.
+- Where there are multiple instances of similar information (e.g., marriages, matches), I've chosen to include multiple rows and leave some cells empty.
+- Marital status is included as a column to distinguish between Matilda's two marriages.
+- For Matilda's first marriage, only the start and end dates are provided, so the Partner and Child information is left blank.
+- For Matilda's second marriage, information about the partner, child, and child's birthday is included.
+- Football matches have columns for Match Type, Opponent, Score, Location, Supporters, and Minutes Played. Empty cells are used where certain details are not provided.
+- The CSV file has been verified to be syntactically correct by opening it in a spreadsheet program and ensuring there are no formatting or syntax errors.

@@ -1,0 +1,9 @@
+Assumptions and Choices:
+- Matilda's name, birthday, and age are represented as strings and numbers respectively, based on the provided information.
+- Information about marriages is stored as an array of objects, with each object containing details about the partner, marriage dates, and whether there is a child.
+- A boolean value (`true` or `false`) is used to indicate whether a marriage produced a child.
+- For Matilda's current marriage with Ryan Craig Viduka, the `end_date` is left as `null` since the marriage is ongoing.
+- Football matches are represented as an array of objects, with details about match type, opponent, score, location, and number of supporters.
+- In the case of the second match where Matilda played for only 45 minutes, a `minutes_played` attribute is included to specify this.
+- If specific information (such as location or number of supporters) is not provided, it is represented as `null`.
+- The JSON file has been verified to be syntactically correct by using a JSON validator or parser to ensure there are no syntax errors.

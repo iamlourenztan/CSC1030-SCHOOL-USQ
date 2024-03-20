@@ -1,0 +1,47 @@
+<clubMember>
+    <name>
+        <firstName>Matilda</firstName>
+        <middleName>Ann</middleName>
+        <lastName>Emma Kerr</lastName>
+    </name>
+    <birthday>
+        <date>16 August 1975</date>
+        <age>48</age>
+    </birthday>
+    <marriages>
+        <marriage>
+            <spouse>Harry Mark Cahill</spouse>
+            <startDate>8 March 2003</startDate>
+            <endDate>2 December 2007</endDate>
+            <children>0</children>
+        </marriage>
+        <marriage>
+            <spouse>Ryan Craig Viduka</spouse>
+            <startDate>3 September 2009</startDate>
+            <children>1</children>
+            <child>
+                <name>Joshua</name>
+                <birthdate>9 December 2011</birthdate>
+            </child>
+        </marriage>
+    </marriages>
+    <footballMatches>
+        <match>
+            <opponent>Rockville Rovers</opponent>
+            <result>3-1 win</result>
+            <location>Ipswich Stadium</location>
+            <supporters>521</supporters>
+        </match>
+        <match>
+            <opponent>Raiders</opponent>
+            <result>0-0 draw</result>
+            <duration>45 minutes</duration>
+        </match>
+        <match>
+            <opponent>Spurs</opponent>
+            <result>2-0 win</result>
+            <location>Warwick Stadium</location>
+            <supporters>348</supporters>
+        </match>
+    </footballMatches>
+</clubMember>
